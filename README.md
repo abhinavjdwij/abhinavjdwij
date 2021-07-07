@@ -4,6 +4,14 @@
 ### I'm currently learning Golang 📖
 ### Fun fact: I use light themed Text Editors / IDEs ⚡
 
-<a target="_blank" href="https://www.linkedin.com/in/abhinavjdwij">
-	<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
+<div align = "center">
+	<h3>Connect with me on: </h3>
+	<a target="_blank" href="https://www.linkedin.com/in/abhinavjdwij">
+		<img src="/assets/logo_linkedin.png" width = "50" height = "50"/>
+	</a>
+	&nbsp;&nbsp;
+	<a target="_blank" href="https://twitter.com/abhinavjdwij">
+		<img src="/assets/logo_twitter.png" width = "50" height = "50"/>
+	</a>
+	&nbsp;&nbsp;
+</div>
