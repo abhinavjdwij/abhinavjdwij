@@ -11,7 +11,7 @@
 	</a>
 	&nbsp;&nbsp;
 	<a target="_blank" href="https://twitter.com/abhinavjdwij">
-		<img src="/assets/logo_twitter.png" width = "50" height = "50"/>
+		<img src="/assets/logo_twitter.jpg" width = "50" height = "50"/>
 	</a>
 	&nbsp;&nbsp;
 </div>
