@@ -14,4 +14,7 @@
 		<img src="/assets/logo_twitter.jpg" width = "50" height = "50"/>
 	</a>
 	&nbsp;&nbsp;
+	<a target="_blank" href="https://twitter.com/abhinavjdwij">
+		<img src="/assets/logo_telegram.jpg" width = "50" height = "50"/>
+	</a>
 </div>
