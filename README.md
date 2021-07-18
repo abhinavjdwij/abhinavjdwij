@@ -4,6 +4,7 @@
 ### I'm currently learning Distributed Systems and Golang 📖
 ### Fun fact: I use light themed Text Editors / IDEs ⚡
 ### Connect with me on: <a target="_blank" href="https://www.linkedin.com/in/abhinavjdwij">LinkedIn</a> / <a target="_blank" href="https://twitter.com/abhinavjdwij">Twitter</a> / <a target="_blank" href="https://t.me/abhinavjdwij">Telegram</a>
+### Read my blogs on: <a target="_blank" href="https://abhinavjdwij.medium.com/">Medium</a>
 <!-- 
 <div align = "center">
 	<h3>Connect with me on: </h3>
