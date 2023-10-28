@@ -1,7 +1,5 @@
-### Hello World 👋, I'm Abhinav ♂️
-### I'm a Software Engineer 💻 since 2️⃣0️⃣1️⃣8️⃣ 
-### I'm currently working on Java, Spring Boot, Microservices and Cloud ☁️
-### I'm currently learning Distributed Systems 📖
-### Fun fact: I use light themed Text Editors / IDEs ⚡
-### Connect with me on: <a target="_blank" href="https://www.linkedin.com/in/abhinavjdwij">LinkedIn</a>
-### Read my blogs on: <a target="_blank" href="https://abhinavjdwij.medium.com/">Medium</a>
+- 👋 Hi, I’m Abhinav Jha
+- 🇮🇳 I’m from Bihar, India
+- 💻 I'm a Senior Software Engineer with 5+ years of experience
+- 🧰 My Work Tech Stack is primarily Java, Python, Go, Spark and AWS
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/oneabhinavjha/)
