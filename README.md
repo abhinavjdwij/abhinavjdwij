@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Jha
 - 🇮🇳 I’m from Bihar, India
-- 💻 I'm an Engineer with 7+ years of experience
+- 💻 I'm an Engineer with 8+ years of experience
 - 🧰 My Tech Stack is primarily Go, Java, Python and AWS
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhinavjdwij/)
